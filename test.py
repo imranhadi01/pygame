@@ -7,7 +7,6 @@ from game import difficulty
 
 
 class TestAPI(unittest.TestCase):
-    #test length of api return
  
     # def testApiLength(self):
     #     self.assertEquals(len(randomApi()), 4)
