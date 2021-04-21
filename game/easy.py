@@ -1,4 +1,4 @@
-#Easy Mode
+#Easy mode
 import requests
 
 def randomApi():
