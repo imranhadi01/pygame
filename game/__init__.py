@@ -10,7 +10,7 @@ import os
 
 
 def welcomeMessage():
-    # To hide pygame intro
+    # To hide pygame intro.
     os.system('clear')
     result = pyfiglet.figlet_format("Master Mind!") 
     print(result)
