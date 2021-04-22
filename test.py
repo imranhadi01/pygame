@@ -1,6 +1,6 @@
 import unittest
 import sys
-# insert at 1, 0 is the script path (or '' in REPL)
+# insert at 1 ,  0 is the script path ( or '' in REPL )
 sys.path.insert(1, '/home/codegem/code/masterMind/game')
 import easy
 from game import difficulty
@@ -8,11 +8,11 @@ from game import difficulty
 
 class TestAPI(unittest.TestCase):
  
-    # def testApiLength(self):
+    #  def testApiLength(self):
     #     self.assertEquals(len(randomApi()), 4)
 
     # def testPlaying(self):
-    #     self.assertEquals(playing())
+    #    self.assertEquals(playing())
 
     def testDifficulty(self):
         result = difficulty('easy')
