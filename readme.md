@@ -11,3 +11,4 @@
  Difficulty adding timed input using Python 3 as in order to continue on a computer needs to receive input from the human.
 
  Using Stack Overflow the closest I could come was asking the user to press enter to continue moving forward
+ Three modes to play this game (Easy, medium, hard)
