@@ -1,6 +1,6 @@
 # Mastermind
 
-# To begin cd into the game folder and run python3 **init**.py
+ To begin cd into the game folder and run python3 **init**.py
 
  Then select 'Y' or 'yes' to begin playing. After type, 'easy', 'medium' or 'hard' to select your difficulty level
 
