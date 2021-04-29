@@ -1,6 +1,6 @@
 import unittest
 import sys
-# insert at 1 ,  0 is the script path ( or '' in REPL )
+# insert at 1 , 0 is the script path ( or '' in REPL )
 sys.path.insert(1, '/home/codegem/code/masterMind/game')
 import easy
 from game import difficulty
