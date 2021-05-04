@@ -1,5 +1,5 @@
-#  5 second timer
-#  7 digit number
+#   5 second timer
+#   7 digit number
 import requests
 import time
 
