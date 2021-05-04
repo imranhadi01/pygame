@@ -10,7 +10,6 @@ class TestAPI(unittest.TestCase):
  
     #  def testApiLength(self):
     #     self.assertEquals(len(randomApi()), 4)
-
     # def testPlaying(self):
     #    self.assertEquals(playing())
 
