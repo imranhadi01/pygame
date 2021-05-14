@@ -8,6 +8,7 @@ def randomApi():
     number=r.text.replace('\n',"")
     return number
 
+
 def hard():
     random= randomApi()
     strLength = 'seven'
