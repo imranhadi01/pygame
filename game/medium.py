@@ -1,4 +1,5 @@
 # Medium
+
 import requests
 
 def randomApi():
